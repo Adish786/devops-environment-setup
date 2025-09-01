@@ -2,7 +2,7 @@ How To Run
 
 
 # Clone the repo
-git clone https://github.com/<your-username>/devops-environment-setup.git
+git clone https://github.com/Adish786/devops-environment-setup.git
 cd devops-environment-setup/scripts
 
 # Run monitoring setup
