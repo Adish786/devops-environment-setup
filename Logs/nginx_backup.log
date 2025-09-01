@@ -1,0 +1,4 @@
+[2025-08-30 00:00:01] Backup created: /backups/nginx_backup_2025-08-30.tar.gz
+etc/nginx/nginx.conf
+usr/share/nginx/html/index.html
+[2025-08-30 00:00:02] Checksum created: /backups/nginx_backup_2025-08-30.tar.gz.sha256

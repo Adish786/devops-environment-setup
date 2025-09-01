@@ -1,0 +1,4 @@
+[2025-08-30 00:00:01] Backup created: /backups/apache_backup_2025-08-30.tar.gz
+etc/httpd/conf/httpd.conf
+var/www/html/index.html
+[2025-08-30 00:00:02] Checksum created: /backups/apache_backup_2025-08-30.tar.gz.sha256

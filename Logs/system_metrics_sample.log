@@ -1,0 +1,10 @@
+==== System Metrics on Sat Aug 30 12:00:00 IST 2025 ====
+--- CPU/Memory/Process Usage (top 5) ---
+  PID  PPID CMD                         %MEM %CPU
+  102     1 /usr/sbin/httpd -DFOREGROUND 2.5 10.3
+  305     1 /usr/sbin/nginx -g daemon... 1.2  5.4
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        40G   10G   30G  25% /
+--- Directory Usage (/var/www/html if exists) ---
+12M     /var/www/html
